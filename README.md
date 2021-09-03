@@ -2,4 +2,4 @@
 This is a repository to share code for projects made within DGST302 Creative Coding.
 
 # First twitter bot:
-The [twitter.com/BernieSBot] creates different versions of the financial support meme originating from Senator Bernie Sanders.
+The [@BernieSBot](https://twitter.com/BernieSBot) creates different versions of the financial support meme originating from Senator Bernie Sanders.
