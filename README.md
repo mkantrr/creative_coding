@@ -12,3 +12,9 @@ The poetry made in `biblepoetry(WIP).py` creates poetry from random words from w
 
 # Markovism, Making a Markovified Bible:
 The python code within `markovbiblenovel.py` takes in a plain text file (.txt) of the King James translation of hte Bible from Project Gutenberg and "markovifies" it. It then takes that markovified Bible and prints it to a very pretty PDF file that includes the markovified Bible verses.
+
+# P5.js Screensaver Activity
+This activity, written in P5.js javascript, produces an endless image created out of code that emulates code being written like blobs of text. When to go to the next line, what color each blob is, when to indent, when to start a new blob, etc. are all randomized but designedi in a way to emulate what code would generally look like.
+
+# P5.js Clock Activity
+This activity, written in P5.js javascript, produces an endless analog style clock that reads the time on the current device the file is being run on. It runs in military time in 24 hours. The hour is represented by the longest line, the minute is represented by the second longest line, the second represented by the third longest line, and millisecond represented by the shortest line that goes the fastest around the center.
